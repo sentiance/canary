@@ -1,5 +1,8 @@
 
 
+# Slack API key
+slack_api_key = 'xoxp-905439787527-905447633015-1489944094130-dac981b84beb9b2ce35c921b93aa289f'
+
 f = open('somewebpage.html','w+')
 
 message = """
